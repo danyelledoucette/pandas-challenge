@@ -10,7 +10,7 @@ Your final report should include each of the following:
 
 * Total Number of Players
 
-* Purchasing Analysis (Total):
+Purchasing Analysis (Total):
 
  * Number of Unique Items
  * Average Purchase Price
@@ -18,7 +18,7 @@ Your final report should include each of the following:
  * Total Revenue
 
 
-* Gender Demographics
+Gender Demographics
 
  * Percentage and Count of Male Players
  * Percentage and Count of Female Players
@@ -35,7 +35,7 @@ Purchasing Analysis (Gender)
  * Average Purchase Total per Person by Gender
 
 
-* Age Demographics
+Age Demographics
 
 * The below each broken into bins of 4 years (i.e. <10, 10-14, 15-19, etc.)
 
@@ -47,7 +47,7 @@ Purchasing Analysis (Gender)
 
 
 
-* Top Spenders
+Top Spenders
 
 * Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
 
@@ -59,7 +59,7 @@ Purchasing Analysis (Gender)
 
 
 
-* Most Popular Items
+Most Popular Items
 
 * Identify the 5 most popular items by purchase count, then list (in a table):
 
@@ -72,7 +72,7 @@ Purchasing Analysis (Gender)
 
 
 
-* Most Profitable Items
+Most Profitable Items
 
 * Identify the 5 most profitable items by total purchase value, then list (in a table):
 
@@ -84,7 +84,7 @@ Purchasing Analysis (Gender)
 
 
 
-* As final considerations:
+As final considerations:
 
  * You must use the Pandas Library and the Jupyter Notebook.
  * You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
